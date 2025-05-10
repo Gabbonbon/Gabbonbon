@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python but I am familiar with html/css
 - 📫 The best way to reach me is through github
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I play genshin impact and am very excited for Wuthering Waves release.
+- ⚡ Fun fact: Haha very funnny
 
 <!---
 Gabbonbon/Gabbonbon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
