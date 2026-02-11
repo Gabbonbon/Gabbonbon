@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @Gabbonbon
-- 👀 I’m interested in game development and web development
-- 🌱 I’m currently learning python but I am familiar with html/css
-- 📫 The best way to reach me is through github
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Haha very funnny
+# 👋 Hi, I’m @Gabbonbon ✨
+- I'm a student exploring my interests through programming, read about them below 👇
+
+## interests 🧠
+- astronomy 
+- economics
+- philosophy
+- psychology
+- AI
+- bouldering
+
+## hobbies 🎲
+- music
+- reading 
+- writing
+- programming
+
+## experience 📷
+- competing in skills canada tournaments (proof upon request)
+
+## current projects 💼
+- using AI and streamlit in a web based dashboard
 
 
 <!---
